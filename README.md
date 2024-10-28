@@ -6,3 +6,6 @@ Project ini bertujuan untuk mengelompokkan sinyal jantung berdasarkan pola yang 
 - Klasterisasi dengan k-means: Menggunakan klasterisasi k-means untuk mengelompokkan sinyal berdasarkan fitur-fiturnya, memberikan wawasan mengenai pola detak jantung tipikal dan tidak biasa.
 - Visualisasi Data: Representasi visual dari sinyal detak jantung yang dikelompokkan untuk interpretasi dan analisis yang lebih mudah.- 
 - Optimasi Model: Upaya untuk mengoptimalkan klasterisasi melalui penyetelan parameter guna meningkatkan akurasi.
+
+# Data
+data dapat diakses di: https://drive.google.com/drive/folders/1f6UDYpOE7LHYG5zxIKOVxy1xG5bmGlXs?usp=sharing
