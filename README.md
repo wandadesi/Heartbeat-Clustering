@@ -53,15 +53,6 @@ While the current model works well for basic clustering, several improvements ca
 - **Real-Time Monitoring**: Integrating this clustering technique into real-time heart monitoring systems to provide early alerts for potential heart issues.
 - **More Data**: Using larger, more diverse datasets to improve the robustness and generalization of the clustering model.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Feel free to contribute by submitting issues, opening pull requests, or improving the documentation. If you have any ideas or suggestions, don't hesitate to reach out!
-
----
 
 **Author**: [Wanda Desi](https://github.com/wandadesi)
 
